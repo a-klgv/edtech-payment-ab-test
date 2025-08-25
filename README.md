@@ -4,9 +4,8 @@
 *Click above to view the complete data analysis with visualizations and insight*
 
 ### 🎯 Objective:
-In this data science project, we analyze the results of an A/B test conducted on an online educational platform that provides learning services and courses to students.  
-The platform operates on a freemium model where users can access basic content for free but need to pay for premium courses and advanced features.  
-Our aim is to evaluate the effectiveness of a new payment mechanism compared to the existing baseline, investigate statistical significance of observed differences. In addition, we provide data-driven recommendations for business implementation.  
+In this mini-project, we analyze the impact of a new payment mechanism introduced on an online educational platform that offers courses and learning services to students.  
+We have the results of an A/B test conducted on an online educational platform. Our aim is to evaluate the effectiveness of a new payment mechanism compared to the existing baseline, investigate statistical significance of observed differences, and provide data-driven recommendations for business implementation.  
 
 ### 📊 Dataset:
 **Source:** Educational platform experiment data  
