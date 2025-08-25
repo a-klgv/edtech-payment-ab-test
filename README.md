@@ -18,10 +18,9 @@ Libraries: pandas, numpy, seaborn, matplotlib
 
 ### 📁 Repository Structure:
 1. edtech-payment-ab-test.ipynb - working file  
-2. groups.csv - dataset - user assignment to control (A) and treatment (B) groups  
-3. groups_add.csv - dataset - additional user assignments provided after initial data transfer  
-4. active_studs.csv - dataset - platform login activity during experiment period  
-5. checks.csv - dataset - payment transaction records with amounts and statuses  
+2, 3. groups.csv / groups_add.csv - datasets - users of control(A) and test(B) groups; groups_add = data after 2 days  
+4. active_studs.csv - dataset - login activity  
+5. checks.csv - dataset - payment records  
 
 ### 🔍 Analysis Process: 
 
