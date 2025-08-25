@@ -32,7 +32,7 @@ Libraries: pandas, numpy, seaborn, matplotlib
 ### 📈 Visualizations: 
 
 ### 📌 Project Notes:
-**This is an educational project for learning data analysis and visualization techniques.**
+***This is an educational project for learning data analysis and visualization techniques.***
 
 
 
