@@ -11,7 +11,7 @@ We have the results of an A/B test conducted on an online educational platform. 
 **Source:** Educational platform experiment data  
 **Key variables:** student_id, revenue   
 **Aggregated DataFrame for Analysis**
-![barplot_week_day](images/barplot_week_day.png)  
+![df](images/df.png)  
 
 ### 🛠️ Technologies Used:
 Libraries: pandas, numpy, seaborn, matplotlib, scipy.stats, tqdm  
@@ -38,11 +38,12 @@ Libraries: pandas, numpy, seaborn, matplotlib, scipy.stats, tqdm
 * Based on the statistical tests conducted (Chi-square for CR and bootstrap for ARPU/ARPPU), H₀ (that there is no difference between the new payment mechanism (test group) and the old one (control group)) cannot be rejected, indicating that the new payment mechanism does not significantly change user payment behavior or revenue.  
 
 ### 📈 Visualizations: 
-
-![barplot_week_day](images/barplot_week_day.png)  
-
-
-
+![split_by_groups](images/split_by_groups.png)  
+![metrics_viz](images/metrics_viz.png)  
+![arpu_distr](images/arpu_distr.png)
+![arppu_distr](images/arppu_distr.png)  
+![arpu_bootstrap](images/arpu_bootstrap.png)  
+![arppu_bootstrap](images/arppu_bootstrap.png)  
 
 ### 📌 Project Notes:
 ***This is an educational project for learning data analysis and visualization techniques.***
