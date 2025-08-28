@@ -9,8 +9,9 @@
 
 ### 📊 Dataset:
 **Source:** Educational platform experiment data  
-**Key variables:** student_id, revenue   
-**Aggregated DataFrame for Analysis**  
+**Key variables:** student_id, revenue
+
+**Aggregated DataFrame for Analysis:**  
 ![df](images/df.png)  
 
 ### 🛠️ Technologies Used:
