@@ -1,11 +1,11 @@
 # EdTech Payment A/B Testing
 
-### [![Open Analysis](https://img.shields.io/badge/📊-Open_Analysis-blue?style=for-the-badge)](ДОБАВИТЬ ССЫЛКУ НА РАБОЧИЙ ФАЙЛ!!!)  
+### [![Open Analysis](https://img.shields.io/badge/📊-Open_Analysis-blue?style=for-the-badge)](edtech-payment-ab-test.ipynb)  
 *Click above to view the complete data analysis with visualizations and insight*
 
 ### 🎯 Objective:
-In this mini-project, we analyze the impact of a new payment mechanism introduced on an online educational platform that offers courses and learning services to students.  
-We have the results of an A/B test conducted on an online educational platform. Our aim is to evaluate the effectiveness of a new payment mechanism compared to the existing baseline, investigate statistical significance of observed differences, and provide data-driven recommendations for business implementation.  
+* In this mini-project, we analyze the impact of a new payment mechanism introduced on an online educational platform that offers courses and learning services to students.
+* Our aim is to evaluate the effectiveness of a new payment mechanism compared to the existing baseline, investigate statistical significance of observed differences, and provide data-driven recommendations for business implementation.  
 
 ### 📊 Dataset:
 **Source:** Educational platform experiment data  
